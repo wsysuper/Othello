@@ -1,0 +1,40 @@
+光盘目录
+（第七小组黑白棋BlackAndWhite）
+
+可执行文件
+BlackAndWhite.exe
+
+图标文件
+BlackAndWhite.ico
+
+相关文档
+1_inception
+	USECASE.mdl
+	SRS.doc
+	USECASE.doc
+	Vision.doc
+	迭代计划.doc
+	迭代评估报告.doc
+
+2_elaboration
+	detaildesign.mdl
+	USECASE_VOPC.mdl
+	架构设计.mdl
+	迭代计划.doc
+	迭代评估报告.doc
+	软件架构文档.doc
+
+3_construction
+	设计模型.mdl
+	测试案例设计文档.doc
+	测试评估报告.doc
+	迭代计划.doc
+	迭代评估报告.doc
+
+4_transition
+	迭代计划.doc
+	用户手册.doc
+
+
+光盘目录.txt（本文档）
+
